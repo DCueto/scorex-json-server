@@ -20,7 +20,8 @@
           "title": "Baldur's Gate 3",
           "metacritic": 97
         }
-      ]
+      ],
+      "reviews": []
     },
     {
       "id": 2,
@@ -113,7 +114,9 @@
     {
       "id": 1,
       "gameId": 324997,
+      "gameName": "Grand Theft Auto V",
       "userId": 1,
+      "username": "DCueto",
       "score": 10,
       "title": "Masterpiece for the history",
       "body": "review content"
